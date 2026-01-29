@@ -578,7 +578,7 @@ const App = () => {
                     React.createElement('span', null, 'naitik_156_')
                 ),
                 React.createElement('a', {
-                    href: 'mailto:naitikk156@gmail.com',
+                    href: 'mailto:rajnaitik620.com',
                     className: 'social-link',
                     style: { display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text)', textDecoration: 'none', transition: 'color 0.3s' }
                 },
