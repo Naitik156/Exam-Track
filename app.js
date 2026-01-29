@@ -377,7 +377,7 @@ const App = () => {
         // DPP - 10%
         if (chapterData.dpp) totalProgress += 10;
         
-        // NEET PYQ - 15%
+        // EXAM PYQ - 15%
         if (chapterData.pyq) totalProgress += 15;
         
         // Short Notes - 10%
